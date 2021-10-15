@@ -133,40 +133,40 @@ html .product.category-grid-item .wd-entities-title, .product.category-grid-item
 		/* Header Boxed */
 	@media (min-width: 1025px) {
 		.whb-boxed:not(.whb-sticked):not(.whb-full-width) .whb-main-header {
-			max-width: 1192px;
+			max-width: 1570px;
 		}
 	}
 
 	.container {
-		max-width: 1222px;
+		max-width: 1600px;
 	}
 	
 	
 		.elementor-section.wd-section-stretch > .elementor-column-gap-no {
-			max-width: 1192px;
+			max-width: 1570px;
 		}
 
 		.elementor-section.wd-section-stretch > .elementor-column-gap-narrow {
-			max-width: 1202px;
+			max-width: 1580px;
 		}
 
 		.elementor-section.wd-section-stretch > .elementor-column-gap-default {
-			max-width: 1212px;
+			max-width: 1590px;
 		}
 
 		.elementor-section.wd-section-stretch > .elementor-column-gap-extended {
-			max-width: 1222px;
+			max-width: 1600px;
 		}
 
 		.elementor-section.wd-section-stretch > .elementor-column-gap-wide {
-			max-width: 1232px;
+			max-width: 1610px;
 		}
 
 		.elementor-section.wd-section-stretch > .elementor-column-gap-wider {
-			max-width: 1252px;
+			max-width: 1630px;
 		}
 
-		@media (min-width: 1239px) {
+		@media (min-width: 1617px) {
 
 			.platform-Windows .wd-section-stretch > .elementor-container {
 				margin-left: auto;
@@ -174,7 +174,7 @@ html .product.category-grid-item .wd-entities-title, .product.category-grid-item
 			}
 		}
 
-		@media (min-width: 1222px) {
+		@media (min-width: 1600px) {
 
 			html:not(.platform-Windows) .wd-section-stretch > .elementor-container {
 				margin-left: auto;
@@ -227,7 +227,7 @@ body.header-banner-display .website-wrapper {
 	font-weight: normal;
 	font-style: normal;
 	font-family: "woodmart-font";
-	src: url("//iran-woodmart.ir/demo/retailel/wp-content/themes/woodmart/fonts/woodmart-font.woff2?v=6.1.4") format("woff2"),
-	url("//iran-woodmart.ir/demo/retailel/wp-content/themes/woodmart/fonts/woodmart-font.woff?v=6.1.4") format("woff");
+	src: url("//localhost/parche/wp-content/themes/woodmart/fonts/woodmart-font.woff2?v=6.1.4") format("woff2"),
+	url("//localhost/parche/wp-content/themes/woodmart/fonts/woodmart-font.woff?v=6.1.4") format("woff");
 }
 

@@ -8,11 +8,11 @@
 
 
 .whb-header-bottom .wd-dropdown {
-	margin-top: 7.5px;
+	margin-top: 20px;
 }
 
 .whb-header-bottom .wd-dropdown:after {
-	height: 17.5px;
+	height: 30px;
 }
 
 .whb-sticked .whb-header-bottom .wd-dropdown {
@@ -43,8 +43,8 @@
 		
 	
 		.whb-header-bottom-inner {
-		height: 55px;
-		max-height: 55px;
+		height: 80px;
+		max-height: 80px;
 	}
 
 		.whb-sticked .whb-header-bottom-inner {
