@@ -1,11 +1,11 @@
-
-.whb-sticked .whb-general-header .wd-dropdown {
-	margin-top: 10px;
+.whb-top-bar .wd-dropdown {
+	margin-top: 0.5px;
 }
 
-.whb-sticked .whb-general-header .wd-dropdown:after {
-	height: 20px;
+.whb-top-bar .wd-dropdown:after {
+	height: 10.5px;
 }
+
 
 .whb-header-bottom .wd-dropdown {
 	margin-top: 7.5px;
@@ -31,17 +31,17 @@
 
 
 @media (min-width: 1025px) {
-	
-		.whb-general-header-inner {
-		height: 70px;
-		max-height: 70px;
+		.whb-top-bar-inner {
+		height: 41px;
+		max-height: 41px;
 	}
 
-		.whb-sticked .whb-general-header-inner {
-		height: 60px;
-		max-height: 60px;
+		.whb-sticked .whb-top-bar-inner {
+		height: 41px;
+		max-height: 41px;
 	}
 		
+	
 		.whb-header-bottom-inner {
 		height: 55px;
 		max-height: 55px;
@@ -63,7 +63,7 @@
 	}
 		
 .whb-top-bar {
-	background-color: rgba(9, 33, 67, 1);border-color: rgba(58, 77, 105, 1);border-bottom-width: 1px;border-bottom-style: solid;
+	background-color: rgba(232, 195, 104, 0.9);border-color: rgba(58, 77, 105, 1);border-bottom-width: 1px;border-bottom-style: solid;
 }
 
 .whb-general-header {
